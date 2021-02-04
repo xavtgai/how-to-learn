@@ -229,7 +229,7 @@
     font-size: 36px;
     font-weight: normal;
     right: 48px;
-    height: 50%;
+    top: 395px;
     text-decoration: none;
     color: #2f80ed;
 }
@@ -337,12 +337,3 @@
     text-decoration: none;
     color: white;
 }
-
-
-/*оставляю эти классы,
-потому что они требуются по брифу,
-но можно было бы и удалить */
-
-.footer__column_content_info {}
-
-.footer__column_content_social {}
